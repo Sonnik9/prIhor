@@ -3,18 +3,16 @@ from bs4 import BeautifulSoup
 import re
 
 
-def page_scraper_photos(data_upz_hotels, resHtml):
+def page_scraper_photos(resHtml, hotelid):
     result_photos_upz = []
-    print('hello photos!')
+    # print('hello photos!')
+
     try:
-        hotelid = ''        
-        hotelid = data_upz_hotels["hotel_id"]        
-    except:
-        pass
-    try:
-        soup1 = BeautifulSoup(resHtml, "lxml")
+        soup1 = BeautifulSoup(resHtml, "lxml")       
     except Exception as ex:
-        print(f"str226___{ex}")
+        # print(f"str102___{ex}") 
+        # pass
+        return None 
 
     try:
         preview_list_photo = []
@@ -26,14 +24,16 @@ def page_scraper_photos(data_upz_hotels, resHtml):
             photo_item_large =  imgBlock1[0].find('img').get('src')
             # print(photo_item_large)
         except Exception as ex:
-            print(f"str45__{ex}") 
+            # print(f"str45__{ex}") 
+            pass
         try:
             url_square60 = ''
             url_square60 = imgBlock2[0].find('a').find('img').get('src')
             # print(photo_item_large)
 
         except Exception as ex:
-            print(f"str52__{ex}")
+            # print(f"str52__{ex}")
+            pass
 
         try:
             for src in imgBlock1:
@@ -88,8 +88,8 @@ def page_scraper_photos(data_upz_hotels, resHtml):
                         'photo_item_title': photo_item_title,
                     }) 
         except Exception as ex:
-            print(f"str94__{ex}")
-
+            # print(f"str94__{ex}")
+            pass
 
         try:
             clean_links_set_max1280x900 = set()
@@ -114,7 +114,7 @@ def page_scraper_photos(data_upz_hotels, resHtml):
                     match = re.search(r"/(\d{9})\.", link)
                     if match:
                         id_photo = match.group(1)
-                        print(id_photo)
+                        # print(id_photo)
                 photo_max1024x768 = re.sub(r'max1280x900', 'max1024x768', link)
                 photo_max200 = re.sub(r'max1280x900', 'max200', link)
                 result_photo.append({
@@ -125,27 +125,30 @@ def page_scraper_photos(data_upz_hotels, resHtml):
                 })
 
         except Exception as ex:
-            print(f"str115{ex}")
+            # print(f"str115{ex}")
+            pass
         try:
             result_photos_upz.append({
                 "id": "",
-                "hotelid": hotelid,
-                "url_max": photo_item_large,
-                "url_square60": url_square60,
+                "hotelid": str(hotelid),
+                "url_max": str(photo_item_large),
+                "url_square60": str(url_square60),
                 "list_photo_1-7,10": preview_list_photo,
                 "all_photos": result_photo
 
             })
         except:
-            pass
+            # pass
+            return None 
         # print(result_photos_upz)      
-          
+        
     except Exception as ex:
-        print(f"str105__{ex}") 
-        # return None 
-
+        # print(f"str105__{ex}") 
+        # pass
+        return None 
+    # return None 
     try:
         return result_photos_upz[0]   
     except:
         return None
-        
+    

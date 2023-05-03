@@ -337,3 +337,66 @@ data1 = [{'links_list_max1280x900': ['https://cf.bstatic.com/xdata/images/hotel/
 #     except:
 #         return None
         
+
+
+
+
+# https://www.booking.com/hotel/uz/hilton-tashkent-city.ru.html?dist=0&sb_price_type=total&type=total&group_adults=2&sid=52c12d695260d02d8a98fb123e5b9e1e&label=gen173nr-1BCAso7gFCFGhpbHRvbi10YXNoa2VudC1jaXR5SDNYBGjkAYgBAZgBIbgBGcgBDNgBAegBAYgCAagCA7gC6O2KogbAAgHSAiQ0MTA3MTA1Mi03ZjhkLTQ1NTktODE3YS1lZDQ4NzQ3Y2I4ZmPYAgXgAgE&keep_landing=1#tab-reviews
+
+
+
+
+
+
+# return [[result_photos_upz, result_description_upz, result_review_upz, result_facilities_upz, result_rooms_upz, upz_hotels_rooms_blocks, upz_hotels_rooms_highlights], data_upz_hotels, black_list] 
+
+
+
+# try:
+#     title = ''
+#     title = soup1.find('div', attrs={'id': 'hp_hotel_name'}).find('h2').get_text().strip()
+#     print(title)
+
+# except Exception as ex:
+#     print(f"str175___{ex}")  
+
+
+
+
+# def requests_generator(prLi, fixed_url):
+#     # r = ''
+#     for _ in range(3):
+#         proxy_item = {       
+#             "https": f"http://{choice(prLi)}"          
+#         } 
+#         # print(proxy_item)
+#         r = ''
+#         k = 2 / random.randrange(1, 5)
+#         m = 1 / random.randrange(1, 11)
+#         g = random.randrange(1, 5)
+#         n = round(g + k + m, 2) 
+#         time.sleep(n)  
+#         try:  
+#             # print('hello req')                    
+#             r = requests.get(fixed_url, headers=smart_headers.random_headers(), proxies=proxy_item, timeout=(3.15, 21.15))
+#             r.raise_for_status()
+#             print(r.status_code)
+#             if r.status_code == 404: 
+#                 return None
+#             if r.status_code == 200:
+#                 try:
+#                    return r.text   
+#                 except:
+#                     return None         
+#             else:
+#                 continue
+
+#         except requests.exceptions.HTTPError as ex:
+#             print(f"str44___HTTP error occurred: {ex}") 
+
+#         if r.text is not None:
+#             return r.text  
+#         else:
+#             continue
+#     return None
+

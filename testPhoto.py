@@ -19,14 +19,14 @@ resHtml = r.text
 #     clean_links_list_max1280x900 = []
 #     result_photo = [] 
 
-#     words = r.text.split()
+    # words = r.text.split()
 #     links = set()
 #     for word in words:
 #         if re.search(r"https://cf\.bstatic\.com/xdata/images/hotel.*", word):
 #             links.add(word)
 #     dirty_links = list(links)
 #     for link in dirty_links:
-#         match = re.search(r"https://cf\.bstatic\.com/xdata/images/hotel/max1280x900.*?&hp=1", link)
+        # match = re.search(r"https://cf\.bstatic\.com/xdata/images/hotel/max1280x900.*?&hp=1", link)
 #         if match:
 #             clean_links_set_max1280x900.add(match.group(0))
 #     clean_links_list_max1280x900 = list(clean_links_set_max1280x900)

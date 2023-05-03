@@ -1,0 +1,1730 @@
+[
+    {
+        "id": "",
+        "hotelid": "7352109",
+        "result_room_upz_list": [
+            {
+                "room_id": "735210901",
+                "name_room": "Deluxe Single Room",
+                "endescription": "This single room has air conditioning and electric kettle.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/300/300938283.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/300/300930174.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/300/300934626.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/301/301046029.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/301/301046027.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/400/400365097.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "735210902",
+                "name_room": "Twin Room with Bathroom",
+                "endescription": "This twin room features a flat-screen TV, air conditioning and electric kettle.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/301/301042626.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/301/301042410.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/301/301042578.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/300/300928499.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 queen bed"
+            },
+            {
+                "room_id": "735210903",
+                "name_room": "Large Double or Twin Room",
+                "endescription": "This twin/double room has a electric kettle and air conditioning.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/300/300932810.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/300/300930174.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/300/300933094.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/300/300941425.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/300/300934668.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/307/307553988.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/398/398387960.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "735210904",
+                "name_room": "Comfort Triple Room",
+                "endescription": "This triple room features air conditioning and electric kettle.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/300/300934202.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/301/301042626.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/301/301044054.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/300/300940569.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/300/300941048.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 queen beds"
+            },
+            {
+                "room_id": "735210905",
+                "name_room": "Comfort Quadruple Room",
+                "endescription": "This quadruple room has a electric kettle, flat-screen TV and air conditioning.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/301/301045498.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/300/300938283.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/301/301045532.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418946480.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 queen beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "1810994",
+        "result_room_upz_list": [
+            {
+                "room_id": "181099401",
+                "name_room": "Twin Room with Bathroom",
+                "endescription": "This twin room has a balcony, electric kettle and barbecue.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/722/72241849.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/722/72255748.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/722/72255743.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/705/70566299.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/705/70566353.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/705/70566364.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/727/72725297.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "181099402",
+                "name_room": "Deluxe Double Room with Bath",
+                "endescription": "This double room features a balcony, barbecue and electric kettle.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/727/72725550.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/388/388814545.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/388/388814312.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357217677.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/388/388814199.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/722/72242309.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/705/70566356.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/705/70566347.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/705/70566280.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/705/70566372.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "181099403",
+                "name_room": "Triple Room with Shared Bathroom",
+                "endescription": "This triple room has a balcony, air conditioning and dining area.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/727/72725550.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/388/388814545.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/705/70566320.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/727/72725548.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/727/72725551.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/722/72257180.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/722/72256184.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/705/70566307.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/705/70566353.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "181099404",
+                "name_room": "Single Room",
+                "endescription": "This single room features a balcony, kitchenette and microwave.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/727/72725550.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/388/388814545.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357217677.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/376/376058656.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/376/376058503.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/722/72242309.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/727/72725341.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357217681.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/727/72725765.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/727/72725345.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/727/72725347.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "181099405",
+                "name_room": "Budget Double Room",
+                "endescription": "This double room has a balcony, air conditioning and cable TV.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/357/357217677.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/727/72725341.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357217681.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "181099406",
+                "name_room": "Budget Double Room",
+                "endescription": "This double room features a balcony, flat-screen TV and dining area.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/357/357228005.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/722/72242309.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357228003.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 full bed"
+            },
+            {
+                "room_id": "181099407",
+                "name_room": "Budget Triple Room",
+                "endescription": "This triple room has a balcony, toaster and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "[]",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "3 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7472932",
+        "result_room_upz_list": [
+            {
+                "room_id": "747293205",
+                "name_room": "Twin Room with View",
+                "endescription": "This twin room has air conditioning, electric kettle and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/407/407472749.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/407/407472750.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/452/452482622.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408025007.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408025008.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408025009.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408025013.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408025019.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408025022.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408025023.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408025024.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408025025.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/452/452484395.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/452/452484397.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/452/452484398.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/452/452484401.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "747293206",
+                "name_room": "Standard Triple Room",
+                "endescription": "This triple room features air conditioning, soundproofing and electric kettle.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/407/407472749.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/407/407472750.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/407/407472754.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/407/407472748.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/407/407472747.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/407/407472752.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/407/407472757.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/407/407472755.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/407/407472753.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "3 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "2603216",
+        "result_room_upz_list": [
+            {
+                "room_id": "260321601",
+                "name_room": "Family Room with Private Bathroom",
+                "endescription": "This family room has a tea/coffee maker, microwave and tumble dryer.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/221/221451468.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221184922.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221451552.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221184924.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221184919.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221451562.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221451535.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/137/137211375.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/137/137211379.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221451474.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221451544.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "260321602",
+                "name_room": "Triple Room with Bath",
+                "endescription": "This triple room features a cable TV, tea/coffee maker and tumble dryer.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/140/140886912.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/137/137222529.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/140/140886892.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/140/140886928.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/140/140881601.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/140/140881599.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/140/140881556.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/140/140881596.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/140/140881594.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/140/140881591.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/140/140881589.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/140/140881582.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/140/140886899.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "260321603",
+                "name_room": "Superior Twin Room",
+                "endescription": "This twin room has a kitchen, air conditioning and flat-screen TV.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/322/322870695.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248893.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248898.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248901.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248903.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248908.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248914.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248916.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248921.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248928.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248929.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248934.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248935.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248936.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248938.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248941.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248942.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248946.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248947.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "260321604",
+                "name_room": "Triple Room with Private Bathroom",
+                "endescription": "This triple room features a oven, tumble dryer and microwave.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/221/221451526.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221451480.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221451504.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/143/143497171.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221451497.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221451517.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "260321606",
+                "name_room": "Budget Double Room",
+                "endescription": "This double room features air conditioning, microwave and tea/coffee maker.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/449/449248868.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248870.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248871.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248873.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248879.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248880.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248883.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248885.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248888.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248901.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248903.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248904.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248908.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/449/449248913.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "260321607",
+                "name_room": "Deluxe Double Room",
+                "endescription": "This double room has a tea/coffee maker, tumble dryer and oven.",
+                "allow_children": "0",
+                "apartament_photo_list": "[]",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 queen bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7625948",
+        "result_room_upz_list": [
+            {
+                "room_id": "762594801",
+                "name_room": "Deluxe Double Room",
+                "endescription": "This double room has a balcony, kitchenware and electric kettle.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/322/322020035.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/322/322020051.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335682338.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335682365.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335682378.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "762594802",
+                "name_room": "Standard Triple Room",
+                "endescription": "This triple room features a balcony, microwave and tea/coffee maker.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/322/322020014.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335682381.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335682387.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335682447.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "762594803",
+                "name_room": "Deluxe Twin Room",
+                "endescription": "This twin room has a balcony, private entrance and microwave.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/322/322020191.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/322/322020014.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/322/322020181.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/322/322020165.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335682592.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335682365.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "6207496",
+        "result_room_upz_list": [
+            {
+                "room_id": "620749601",
+                "name_room": "Twin Room with Shower",
+                "endescription": "This twin room has a balcony, air conditioning and electric kettle.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/254/254582511.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/254/254582873.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/254/254582675.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/254/254582752.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/254/254583070.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/254/254583016.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/254/254582967.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/254/254583148.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/242/242895195.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/242/242895443.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/242/242895171.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/242/242895077.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/242/242895096.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/242/242895117.jpg']",
+                "private_bathroom_highlight": "Shower\nToilet\nSlippers\nToilet paper\n",
+                "bed_configurations": "10 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7394450",
+        "result_room_upz_list": [
+            {
+                "room_id": "988578101",
+                "name_room": "One-Bedroom Apartment",
+                "endescription": "This apartment has air conditioning, kitchen and washing machine.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/447/447261433.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/447/447261461.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/447/447261462.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/447/447261464.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/447/447261465.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/447/447261466.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/447/447261467.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/447/447261469.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/447/447261472.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/447/447261475.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/447/447261477.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 full bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "6251304",
+        "result_room_upz_list": [
+            {
+                "room_id": "625130401",
+                "name_room": "Two-Bedroom Apartment",
+                "endescription": "This apartment has a kitchenware, soundproofing and kitchen.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/284/284839346.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/284/284839302.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/284/284839286.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/244/244688170.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/247/247763715.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/247/247763717.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/247/247763760.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/281/281119644.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063753.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063757.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063760.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 queen bed Bedroom 2 : 1 queen bed Living room : 1 sofa bed"
+            },
+            {
+                "room_id": "625130402",
+                "name_room": "Large Double Room",
+                "endescription": "This double room features a soundproofing, tea/coffee maker and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/247/247763760.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/247/247763715.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/247/247763717.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/244/244688246.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/244/244688194.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/247/247763481.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/244/244688195.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/247/247763393.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/244/244688208.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/281/281119644.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/284/284839286.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/284/284839302.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/284/284839346.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063753.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063757.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063760.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063761.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 sofa bed and 1 queen bed"
+            },
+            {
+                "room_id": "625130403",
+                "name_room": "Deluxe Double Room",
+                "endescription": "This double room has a kitchen, sofa and seating area.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/247/247763715.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/247/247763717.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/247/247763760.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/281/281119644.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/284/284839286.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/284/284839302.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/284/284839346.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063753.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063757.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063760.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063761.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 full bed or 1 sofa bed"
+            },
+            {
+                "room_id": "625130404",
+                "name_room": "Double Room",
+                "endescription": "This double room features a sofa, cable TV and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/247/247763715.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/247/247763717.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/247/247763760.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/281/281119644.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/284/284839286.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/284/284839302.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/284/284839346.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063753.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063757.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063760.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/442/442063761.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 twin bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "4800916",
+        "result_room_upz_list": [
+            {
+                "room_id": "480091601",
+                "name_room": "Budget Double or Twin Room",
+                "endescription": "This twin/double room has a washing machine, air conditioning and flat-screen TV.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/187/187739738.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/187/187738672.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/187/187739726.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/187/187739729.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/187/187739736.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/188/188726369.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/187/187740171.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/187/187740175.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/191/191042921.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218536916.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218537035.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218537184.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218537300.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218537351.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225527892.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225528964.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "480091602",
+                "name_room": "Comfort Triple Room with Shower",
+                "endescription": "This triple room features a oven, satellite TV and executive lounge access.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/187/187740162.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/187/187739732.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/187/187739734.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/191/191042921.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218536671.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218536796.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218538612.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "4896119",
+        "result_room_upz_list": [
+            {
+                "room_id": "489611901",
+                "name_room": "Standard Single Room with Shower",
+                "endescription": "This single room has a balcony, private entrance and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/418/418307552.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/425/425465227.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/425/425462872.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/425/425458002.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/425/425457746.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/425/425457547.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/329/329169126.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418307901.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418309546.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "489611902",
+                "name_room": "Double Room",
+                "endescription": "This double room features a balcony, pool view and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/418/418308348.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/329/329169126.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418307901.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418309546.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 full bed"
+            },
+            {
+                "room_id": "489611903",
+                "name_room": "Twin Room with Shower",
+                "endescription": "This twin room has a balcony, electric kettle and seating area.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/418/418311495.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/329/329169039.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/329/329169112.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418312084.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418309546.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "489611904",
+                "name_room": "Triple Room with Shower",
+                "endescription": "This triple room features a view, seating area and bathrobe.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/418/418312692.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/329/329169105.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418313090.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418316607.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "489611905",
+                "name_room": "Quadruple Room with Shower",
+                "endescription": "This quadruple room has a soundproofing, tea/coffee maker and sofa.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/418/418313909.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418309546.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418307901.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/418/418315911.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "5 twin beds"
+            },
+            {
+                "room_id": "489611906",
+                "name_room": "Family Room with Shower",
+                "endescription": "This family room features a flat-screen TV, seating area and private entrance.",
+                "allow_children": "0",
+                "apartament_photo_list": "[]",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "6 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8033865",
+        "result_room_upz_list": [
+            {
+                "room_id": "803386501",
+                "name_room": "Double Room",
+                "endescription": "This double room has a balcony, air conditioning and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/332/332254323.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332254476.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332254656.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332254380.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332255436.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "803386502",
+                "name_room": "Standard Double or Twin Room",
+                "endescription": "This twin/double room features air conditioning, flat-screen TV and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/332/332254323.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332254379.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331948578.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332264236.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332285280.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332254324.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332254380.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332255436.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332285422.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 king bed or 2 twin beds"
+            },
+            {
+                "room_id": "803386503",
+                "name_room": "Budget Double Room",
+                "endescription": "This double room has air conditioning and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/332/332253863.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332253864.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332254161.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332255436.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "803386504",
+                "name_room": "Budget Double or Twin Room",
+                "endescription": "This twin/double room features air conditioning and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/332/332264236.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331948581.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332254323.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332252930.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332253822.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332255436.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds or 1 king bed"
+            },
+            {
+                "room_id": "803386505",
+                "name_room": "Standard Twin Room",
+                "endescription": "This twin room has a balcony, soundproofing and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/332/332286406.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331950093.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332254737.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332255436.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds or 1 king bed"
+            },
+            {
+                "room_id": "803386506",
+                "name_room": "Budget Twin Room",
+                "endescription": "This twin room features a soundproofing and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/332/332252993.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332252994.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332252930.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332252929.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332255436.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 king beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "4622611",
+        "result_room_upz_list": [
+            {
+                "room_id": "462261102",
+                "name_room": "Large Twin Room",
+                "endescription": "This twin room features a microwave, toaster and washing machine.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/381/381850695.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/182/182482497.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/381/381850344.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/215/215915989.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/215/215916034.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/215/215916085.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/381/381855477.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/381/381855647.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/381/381859464.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "462261104",
+                "name_room": "Family Room with Private Bathroom",
+                "endescription": "This family room features a mini-bar, dining area and microwave.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/182/182481244.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/215/215915994.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/215/215916062.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 twin bed and 1 queen bed"
+            },
+            {
+                "room_id": "462261106",
+                "name_room": "Triple Room with Private Bathroom",
+                "endescription": "This triple room features air conditioning, kitchenette and washing machine.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/215/215914287.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/215/215914297.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/182/182481244.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "462261107",
+                "name_room": "Superior Double Room",
+                "endescription": "This double room has a microwave, private entrance and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/215/215916012.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/215/215916022.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/215/215916049.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/215/215916074.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/381/381854061.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/381/381854345.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/381/381854538.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/381/381855167.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 full bed"
+            },
+            {
+                "room_id": "462261108",
+                "name_room": "Single Room",
+                "endescription": "This single room features a dining area, patio and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/381/381854061.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 twin bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "1808432",
+        "result_room_upz_list": [
+            {
+                "room_id": "180843204",
+                "name_room": "Standard Single Room",
+                "endescription": "This single room features air conditioning, soundproofing and mini-bar.",
+                "allow_children": "0",
+                "apartament_photo_list": "[]",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 twin bed or 1 queen bed"
+            },
+            {
+                "room_id": "180843205",
+                "name_room": "Standard Double Room",
+                "endescription": "This double room has a soundproofing, bathrobe and private entrance.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/415/415237131.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/415/415237133.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/415/415237139.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "180843206",
+                "name_room": "Standard Twin Room",
+                "endescription": "This twin room features a bathrobe, private entrance and fireplace.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/415/415237135.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/415/415237138.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "180843207",
+                "name_room": "Deluxe Twin Room",
+                "endescription": "This twin room has a mini-bar, air conditioning and sofa.",
+                "allow_children": "0",
+                "apartament_photo_list": "[]",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "180843208",
+                "name_room": "Standard Triple Room",
+                "endescription": "This triple room features a bathrobe, fireplace and mini-bar.",
+                "allow_children": "0",
+                "apartament_photo_list": "[]",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "5593693",
+        "result_room_upz_list": [
+            {
+                "room_id": "559369301",
+                "name_room": "Double Room",
+                "endescription": "This double room has air conditioning, electric kettle and flat-screen TV.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/225/225125679.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225123185.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225123181.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225123191.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 full bed"
+            },
+            {
+                "room_id": "559369302",
+                "name_room": "Twin Room",
+                "endescription": "This twin room features a view, air conditioning and electric kettle.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/225/225122974.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225125678.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225122959.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225122969.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225123181.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "559369303",
+                "name_room": "Deluxe Double Room",
+                "endescription": "This double room has a electric kettle and air conditioning.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/225/225123173.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225123159.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225123163.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225123167.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225123181.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 full bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8129369",
+        "result_room_upz_list": [
+            {
+                "room_id": "812936901",
+                "name_room": "Deluxe King Room",
+                "endescription": "This double room has a mini-bar, patio and satellite TV.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/336/336729221.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749910.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749817.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749903.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749899.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335752536.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749912.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749906.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749901.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749900.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749889.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406944549.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406944991.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "812936902",
+                "name_room": "Deluxe Twin Room",
+                "endescription": "This twin room features a tea/coffee maker, bathrobe and cable TV.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/335/335749915.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335752236.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749910.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335752536.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749889.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749906.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335749912.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8129171",
+        "result_room_upz_list": [
+            {
+                "room_id": "812917101",
+                "name_room": "One-Bedroom Apartment",
+                "endescription": "This apartment has a kitchen, balcony and washing machine.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/335/335741972.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335742015.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335742016.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335742021.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335742027.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335742030.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335742031.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335742037.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335742042.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335742050.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 full bed Living room : 1 sofa bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8122670",
+        "result_room_upz_list": [
+            {
+                "room_id": "812267001",
+                "name_room": "Two-Bedroom Apartment",
+                "endescription": "This apartment has a microwave, electric kettle and sofa.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/335/335378090.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335378162.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335378166.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335378170.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335378171.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335378174.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335378179.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335378181.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335378183.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 full bed Bedroom 2 : 1 sofa bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8119342",
+        "result_room_upz_list": [
+            {
+                "room_id": "811934201",
+                "name_room": "Two-Bedroom Apartment",
+                "endescription": "This apartment has a balcony, air conditioning and kitchen.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/335/335196336.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335196341.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335196350.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335196352.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335196364.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335196370.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335196376.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335196384.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335196387.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/335/335196390.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 king bed and 1 queen bed Bedroom 2 : 1 king bed Living room : 1 sofa bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8086514",
+        "result_room_upz_list": [
+            {
+                "room_id": "808651401",
+                "name_room": "Twin Room",
+                "endescription": "This twin room has air conditioning, bathrobe and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/333/333963610.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333964296.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333964467.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333964581.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333964756.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333965516.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333965868.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333967667.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333967772.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362960320.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362960314.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362962031.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362962030.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362962028.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362962027.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "808651402",
+                "name_room": "Quadruple Room",
+                "endescription": "This quadruple room features a cable TV, bathrobe and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/333/333968359.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333968525.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333968628.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333969163.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333969402.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/333/333969824.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "808651403",
+                "name_room": "Deluxe Double Room with Extra Bed",
+                "endescription": "This twin room has a soundproofing, flat-screen TV and bathrobe.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/362/362403032.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362403033.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362403035.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362403037.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/350/350208557.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/350/350208839.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/350/350208835.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/350/350208833.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/371/371402896.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/371/371402984.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/371/371403009.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "808651405",
+                "name_room": "Deluxe Double Room",
+                "endescription": "This double room has a bathrobe, soundproofing and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/362/362405790.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362405781.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362405770.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362405768.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362405767.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362962040.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362962039.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362962037.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/362/362962036.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 king bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8082812",
+        "result_room_upz_list": [
+            {
+                "room_id": "808281201",
+                "name_room": "Standard Double Room",
+                "endescription": "This double room has a seating area, private entrance and dining area.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/390/390008065.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957837.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957833.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957859.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957854.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957851.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957843.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957845.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957848.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957836.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957839.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957841.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957842.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957830.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957831.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957834.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957832.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/344/344957846.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 queen bed"
+            },
+            {
+                "room_id": "808281209",
+                "name_room": "Standard Twin Room",
+                "endescription": "",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/406/406749202.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406749237.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "808281211",
+                "name_room": "Triple Room with Balcony",
+                "endescription": "",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/406/406752668.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406752658.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406752495.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/390/390010987.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 twin bed and 1 queen bed"
+            },
+            {
+                "room_id": "808281212",
+                "name_room": "Triple Room",
+                "endescription": "",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/406/406749302.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406749321.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/390/390010987.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "808281213",
+                "name_room": "Triple Room with City View",
+                "endescription": "",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/406/406752034.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406752057.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406749617.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/390/390010987.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "808281214",
+                "name_room": "Deluxe Double Room with Balcony",
+                "endescription": "",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/406/406752495.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406752422.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406752479.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/390/390011846.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 queen bed"
+            },
+            {
+                "room_id": "808281215",
+                "name_room": "Family Room with Bathroom",
+                "endescription": "",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/406/406749391.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406749435.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406749514.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406749555.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds and 1 queen bed"
+            },
+            {
+                "room_id": "808281216",
+                "name_room": "Deluxe Family Room",
+                "endescription": "",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/406/406749617.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406749602.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/406/406749608.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/345/345352229.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 queen beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8044145",
+        "result_room_upz_list": [
+            {
+                "room_id": "804414501",
+                "name_room": "Double Room",
+                "endescription": "This double room has a electric kettle, seating area and dining area.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/345/345535807.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/345/345538532.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 queen bed"
+            },
+            {
+                "room_id": "804414503",
+                "name_room": "Twin Room",
+                "endescription": "This twin room has air conditioning, kitchenware and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/345/345539422.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/345/345535817.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/345/345535800.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/345/345535795.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/345/345535801.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/345/345535802.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/345/345538436.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8043866",
+        "result_room_upz_list": [
+            {
+                "room_id": "804386601",
+                "name_room": "Three-Bedroom Villa",
+                "endescription": "This villa has a balcony, electric kettle and tile/marble floor.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/429/429443358.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/429/429442235.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/429/429442222.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/429/429442099.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/429/429442159.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357958904.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357643398.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642008.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642005.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642501.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642505.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642003.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642011.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642004.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642002.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642498.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642012.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642006.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642506.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642500.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642010.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642504.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642502.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357642009.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638056.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638066.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638063.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638136.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638060.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638140.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638128.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638092.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638105.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638101.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638034.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638097.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638062.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638021.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638052.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638120.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638030.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638100.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638156.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332092225.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332092216.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332092205.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357643401.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638020.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638010.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638065.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638017.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/357/357638019.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/429/429448798.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/429/429448832.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBidet\nToilet\nBathtub or shower\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "1 queen bed Bedroom 2 : 1 queen bed Bedroom 3 : 1 queen bed Living room : 2 sofa beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8038477",
+        "result_room_upz_list": [
+            {
+                "room_id": "803847701",
+                "name_room": "Quadruple Room with Private Bathroom",
+                "endescription": "This quadruple room has a private entrance, soundproofing and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/434/434391903.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391693.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391723.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392060.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434390818.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391413.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391415.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391646.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391456.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391434.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "803847702",
+                "name_room": "Deluxe Triple Room",
+                "endescription": "This triple room features air conditioning, soundproofing and private entrance.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/434/434392104.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392163.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392189.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392252.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "803847703",
+                "name_room": "Twin Room with Bathroom",
+                "endescription": "This twin room has a microwave, soundproofing and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/434/434390818.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391415.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391413.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391646.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391456.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391434.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391903.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391693.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434391723.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392060.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "803847704",
+                "name_room": "Quadruple Room with Private External Bathroom",
+                "endescription": "This quadruple room features a soundproofing, air conditioning and private entrance.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/434/434393477.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434393642.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434393744.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434393594.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434393551.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434393905.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434394059.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434394162.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "803847705",
+                "name_room": "Quadruple Room with Shared Bathroom",
+                "endescription": "This quadruple room has air conditioning, private entrance and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/434/434394259.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434394254.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434394290.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434395356.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "803847706",
+                "name_room": "Comfort Quadruple Room",
+                "endescription": "This twin room features a soundproofing, air conditioning and private entrance.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/434/434392389.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392445.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392557.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392616.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392666.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "803847707",
+                "name_room": "Triple Room",
+                "endescription": "This triple room has a soundproofing, air conditioning and private entrance.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/434/434392104.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392163.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392189.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392252.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "803847708",
+                "name_room": "Bed in 4-Bed Female Dormitory Room",
+                "endescription": "",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/434/434395356.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/435/435061365.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434394259.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434394254.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392299.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "803847709",
+                "name_room": "Bed in Male Dormitory Room",
+                "endescription": "",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/434/434393551.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434393744.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/435/435087056.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434393477.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434393594.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434394162.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434394059.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "803847710",
+                "name_room": "Family Room with Private Bathroom",
+                "endescription": "",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/434/434392740.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/435/435468412.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392790.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/435/435467315.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/434/434392938.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "5 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8033028",
+        "result_room_upz_list": [
+            {
+                "room_id": "803302801",
+                "name_room": "Double Room",
+                "endescription": "This double room has a balcony, air conditioning and mini-bar.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/332/332077825.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077802.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077823.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077821.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077817.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077811.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077792.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "803302802",
+                "name_room": "Twin Room",
+                "endescription": "This twin room features a balcony, tea/coffee maker and flat-screen TV.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/332/332077872.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077871.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077868.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077866.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077863.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077859.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077855.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332077849.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "803302803",
+                "name_room": "Suite",
+                "endescription": "This suite has a mini-bar, satellite TV and seating area.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/332/332078789.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332078794.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332078795.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332078798.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332078793.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332078729.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332078723.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332078747.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "803302804",
+                "name_room": "Budget Double or Twin Room",
+                "endescription": "This twin/double room features air conditioning, electric kettle and mini-bar.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/350/350397329.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/350/350397330.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8025939",
+        "result_room_upz_list": [
+            {
+                "room_id": "802593901",
+                "name_room": "Superior Single Room",
+                "endescription": "This single room has a seating area, soundproofing and tea/coffee maker.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/401/401048614.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332823774.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332825093.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332827256.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "802593902",
+                "name_room": "Superior Twin Room",
+                "endescription": "This twin room features a balcony, air conditioning and seating area.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/332/332810893.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332814508.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332814517.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332815955.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332812463.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/401/401048507.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332827256.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408586515.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408586776.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "802593903",
+                "name_room": "Luxury Triple Room",
+                "endescription": "This triple room has air conditioning, seating area and tea/coffee maker.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/332/332816457.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332817006.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408588522.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/401/401295839.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332819802.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/332/332827256.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/401/401048478.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "802593906",
+                "name_room": "Superior Double Room",
+                "endescription": "This double room features a balcony, tea/coffee maker and view.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/390/390886741.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/393/393796086.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/393/393795931.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/401/401048507.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408588577.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "802593907",
+                "name_room": "Premium Quadruple Room",
+                "endescription": "This quadruple room has a balcony, electric kettle and mini-bar.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/408/408587775.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408587698.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408589132.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/400/400984035.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408588699.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "4 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "8022506",
+        "result_room_upz_list": [
+            {
+                "room_id": "802250601",
+                "name_room": "Twin Room",
+                "endescription": "This twin room has a tea/coffee maker, satellite TV and soundproofing.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/331/331266754.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331766794.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933397.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331932959.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933390.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933391.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933393.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933394.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933080.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331267176.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331267172.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "802250603",
+                "name_room": "Standard Triple Room",
+                "endescription": "This triple room has a laptop, electric kettle and seating area.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/331/331932970.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331932968.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331932965.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331932963.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331932959.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331932962.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331267176.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933080.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933390.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933391.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933393.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933394.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933397.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "802250604",
+                "name_room": "Deluxe Junior Suite",
+                "endescription": "This suite features a view, computer and dining area.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/331/331933388.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933073.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933072.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933070.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933062.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933063.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933057.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331267176.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331267982.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331932959.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933374.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933376.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933382.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933385.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933386.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933387.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933077.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933389.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933390.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933391.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933393.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933394.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933398.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933080.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "1 full bed Living room : 1 sofa bed"
+            },
+            {
+                "room_id": "802250605",
+                "name_room": "Double Room",
+                "endescription": "This double room has a mini-bar, cable TV and electric kettle.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/331/331933398.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933389.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933386.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933382.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933376.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933374.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933388.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933390.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933393.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331267176.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331267180.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331267970.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331932959.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933080.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933394.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/331/331933391.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "1 twin bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7945974",
+        "result_room_upz_list": [
+            {
+                "room_id": "794597401",
+                "name_room": "Standard Double Room",
+                "endescription": "This double room has a balcony, electric kettle and dining area.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/378/378375697.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378375723.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378375903.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378375878.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378375850.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378375758.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 full bed"
+            },
+            {
+                "room_id": "794597402",
+                "name_room": "Standard Twin Room",
+                "endescription": "This twin room features a balcony, electric kettle and flat-screen TV.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/378/378374392.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378374472.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378374458.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378374479.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/330/330262896.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/330/330262894.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "794597403",
+                "name_room": "Suite with City View",
+                "endescription": "This suite has air conditioning, electric kettle and satellite TV.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/378/378372926.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378373015.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378372956.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378373030.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/373/373782585.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/373/373786331.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378373076.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378373471.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 full bed"
+            },
+            {
+                "room_id": "794597404",
+                "name_room": "Deluxe Studio",
+                "endescription": "This studio features a balcony, soundproofing and electric kettle.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/378/378369727.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378374315.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378370378.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/373/373776410.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/373/373776399.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 full bed"
+            },
+            {
+                "room_id": "794597405",
+                "name_room": "Standard Triple Room",
+                "endescription": "This triple room has a electric kettle, private entrance and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/378/378355482.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/378/378363095.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/330/330263952.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/373/373790430.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7933400",
+        "result_room_upz_list": [
+            {
+                "room_id": "793340001",
+                "name_room": "Single Room with Private Bathroom",
+                "endescription": "This single room has a balcony, private entrance and electric kettle.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/327/327174052.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983105.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983092.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983100.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983103.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983134.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "793340002",
+                "name_room": "Double Room with Private Bathroom",
+                "endescription": "This double room features a balcony, tea/coffee maker and executive lounge access.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/327/327983102.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983105.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983079.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983092.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983103.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983113.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983115.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983134.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 queen bed"
+            },
+            {
+                "room_id": "793340003",
+                "name_room": "Twin Room with Private Bathroom",
+                "endescription": "This twin room has a balcony, kitchenware and CD player.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/327/327174052.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983113.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327174076.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983078.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983115.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983126.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983134.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "793340005",
+                "name_room": "Triple Room with Private Bathroom",
+                "endescription": "This triple room has a balcony, private entrance and executive lounge access.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/327/327174074.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983106.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983083.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983086.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983089.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983092.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983100.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983103.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983113.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983115.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983134.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "793340006",
+                "name_room": "Suite",
+                "endescription": "This suite features a balcony, air conditioning and CD player.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/327/327983070.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327175305.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983079.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983103.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327983115.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 king bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7895870",
+        "result_room_upz_list": [
+            {
+                "room_id": "789587001",
+                "name_room": "Twin Room with Private Bathroom",
+                "endescription": "This twin room has air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/327/327037248.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/325/325655901.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "789587002",
+                "name_room": "Comfort Quadruple Room",
+                "endescription": "This quadruple room features air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/327/327034706.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327034763.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "789587003",
+                "name_room": "Deluxe King Room",
+                "endescription": "This double room has air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/328/328435040.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "789587004",
+                "name_room": "Premium Quadruple Room",
+                "endescription": "This quadruple room features air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/328/328435041.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "789587005",
+                "name_room": "Budget Twin Room",
+                "endescription": "",
+                "allow_children": "0",
+                "apartament_photo_list": "[]",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7895503",
+        "result_room_upz_list": [
+            {
+                "room_id": "789550301",
+                "name_room": "Single Room with Shower",
+                "endescription": "This single room has a flat-screen TV and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/325/325639285.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/325/325639270.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/325/325639304.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/326/326844335.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/326/326844083.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "789550302",
+                "name_room": "Superior Double Room",
+                "endescription": "This double room features a satellite TV, view and air conditioning.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/326/326843693.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/326/326843864.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/326/326844647.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/326/326844738.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/326/326843993.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "789550303",
+                "name_room": "Twin Room with Bathroom",
+                "endescription": "This twin room has a balcony, air conditioning and cable TV.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/326/326843069.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/326/326843506.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/325/325639280.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/326/326843427.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/326/326843802.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "789550304",
+                "name_room": "Triple Room with Bathroom",
+                "endescription": "This triple room features a balcony, flat-screen TV and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/360/360519372.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/360/360519353.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/360/360519362.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/360/360519368.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/360/360519373.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/360/360519376.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/360/360519387.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "3 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7882280",
+        "result_room_upz_list": [
+            {
+                "room_id": "788228007",
+                "name_room": "Triple Room with Bathroom",
+                "endescription": "This triple room has air conditioning, soundproofing and tile/marble floor.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/328/328192835.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327971825.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/328/328961511.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/328/328963156.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/329/329025634.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/329/329026051.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/329/329025703.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327791442.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "788228012",
+                "name_room": "Twin Room with Bathroom",
+                "endescription": "Rooms are 20 square yards.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/328/328192835.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/327/327976416.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/329/329023532.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "788228013",
+                "name_room": "Quadruple Room with Bathroom",
+                "endescription": "Rooms are 24 square yards.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/329/329025980.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/329/329025977.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/328/328192835.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/329/329025997.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nSlippers\nToilet paper\n",
+                "bed_configurations": "4 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7762751",
+        "result_room_upz_list": [
+            {
+                "room_id": "776275103",
+                "name_room": "Single Room with Private Bathroom",
+                "endescription": "This single room has air conditioning and flat-screen TV.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/324/324740997.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/324/324740992.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358289482.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358289608.jpg']",
+                "private_bathroom_highlight": "Bathtub\nShower\nToilet\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "776275104",
+                "name_room": "Twin Room with Private Bathroom",
+                "endescription": "This twin room features air conditioning.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/324/324740974.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/324/324740975.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/324/324740992.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/324/324740997.jpg']",
+                "private_bathroom_highlight": "Bathtub\nShower\nToilet\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "776275107",
+                "name_room": "Double Room with Private Bathroom",
+                "endescription": "This double room has air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/324/324740979.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358239692.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358239842.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/324/324740988.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/451/451695846.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/451/451695842.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358238686.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/451/451695841.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/451/451695844.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/451/451695843.jpg']",
+                "private_bathroom_highlight": "Bathtub\nShower\nToilet\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 full bed"
+            },
+            {
+                "room_id": "776275108",
+                "name_room": "Comfort Triple Room with Shower",
+                "endescription": "This triple room features air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/358/358286528.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358286633.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358286623.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358287155.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358287211.jpg']",
+                "private_bathroom_highlight": "Bathtub\nShower\nToilet\nHairdryer\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "776275109",
+                "name_room": "Comfort Quadruple Room",
+                "endescription": "This quadruple room has a flat-screen TV and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/358/358241580.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358287426.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358288061.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358288653.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/358/358288967.jpg']",
+                "private_bathroom_highlight": "Bathtub\nShower\nToilet\nHairdryer\nToilet paper\n",
+                "bed_configurations": "4 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7752177",
+        "result_room_upz_list": [
+            {
+                "room_id": "775217701",
+                "name_room": "Twin Room with Shared Bathroom",
+                "endescription": "This twin room has a soundproofing, electric kettle and cable TV.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/375/375113991.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397223128.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397223126.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/404/404685973.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "775217702",
+                "name_room": "Twin Room with Private Bathroom",
+                "endescription": "This twin room features air conditioning, private entrance and electric kettle.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/375/375113991.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/320/320218965.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222096.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/404/404686022.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "775217703",
+                "name_room": "Superior Triple Room",
+                "endescription": "This triple room has a soundproofing, garden view and air conditioning.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/397/397223017.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/375/375113991.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222562.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222098.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222102.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/320/320218992.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/320/320218964.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222698.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/320/320218968.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "3 twin beds"
+            },
+            {
+                "room_id": "775217704",
+                "name_room": "Comfort Quadruple Room",
+                "endescription": "This quadruple room features a soundproofing, air conditioning and tea/coffee maker.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/375/375113991.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222101.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222097.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222108.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222105.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222099.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222913.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/320/320218968.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397222962.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/404/404685343.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/397/397223017.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "775217705",
+                "name_room": "Single Room with Bath",
+                "endescription": "This single room has air conditioning, microwave and private entrance.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/375/375113991.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/401/401204776.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/320/320218974.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/320/320218942.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 twin bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7737974",
+        "result_room_upz_list": [
+            {
+                "room_id": "773797401",
+                "name_room": "Twin Room",
+                "endescription": "This twin room has a satellite TV, executive lounge access and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/319/319617330.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617301.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617504.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617405.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617352.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617479.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617327.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617296.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617454.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617493.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nToilet\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "773797402",
+                "name_room": "Superior King Room",
+                "endescription": "This double room features a private entrance, tumble dryer and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/319/319617070.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617229.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617280.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617352.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617405.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617316.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617479.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617296.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617438.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617493.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nBidet\nToilet\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 queen bed"
+            },
+            {
+                "room_id": "773797403",
+                "name_room": "Double or Twin Room",
+                "endescription": "This twin/double room has a soundproofing, electric kettle and private entrance.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/319/319617301.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617330.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617504.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617405.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617352.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617479.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617521.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617327.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617454.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617493.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nToilet\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "773797404",
+                "name_room": "Comfort Quadruple Room",
+                "endescription": "This quadruple room features a private entrance, view and tea/coffee maker.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/319/319617535.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617340.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617446.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617405.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617521.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617327.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617357.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617493.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617431.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nToilet\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "773797405",
+                "name_room": "Comfort Triple Room",
+                "endescription": "This triple room has a soundproofing, private entrance and electric kettle.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/319/319617256.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617418.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617485.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617405.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617479.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617521.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617327.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617357.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617493.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/319/319617237.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nToilet\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "3 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7729690",
+        "result_room_upz_list": [
+            {
+                "room_id": "772969001",
+                "name_room": "Standard Double or Twin Room with Balcony",
+                "endescription": "This twin/double room has a balcony, flat-screen TV and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/430/430456060.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456056.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456073.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456072.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456053.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456081.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456008.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456059.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456055.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456065.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456002.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456061.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456063.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nToilet\nBathtub or shower\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 queen bed"
+            },
+            {
+                "room_id": "772969004",
+                "name_room": "King Suite with Spa Bath",
+                "endescription": "This suite features a flat-screen TV, soundproofing and spa bath.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/430/430456136.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456131.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456130.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456110.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456113.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456075.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456122.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456132.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456126.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456134.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456139.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456140.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456141.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456143.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456119.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456120.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456127.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456129.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456107.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/430/430456104.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBathrobe\nBidet\nToilet\nBathtub or shower\nSlippers\nSpa tub\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 king bed Living room : 1 sofa bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "7723847",
+        "result_room_upz_list": [
+            {
+                "room_id": "772384701",
+                "name_room": "Twin Room",
+                "endescription": "This twin room has a electric kettle, satellite TV and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "[]",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 king bed"
+            },
+            {
+                "room_id": "772384702",
+                "name_room": "Family Double Room",
+                "endescription": "This family room features air conditioning, electric kettle and cable TV.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/408/408866918.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408866919.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408866911.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408866900.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408866925.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 twin bed and 1 king bed"
+            },
+            {
+                "room_id": "772384703",
+                "name_room": "Family Room with Shower",
+                "endescription": "This family room has air conditioning, flat-screen TV and electric kettle.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/408/408866911.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408866919.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408866900.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408866918.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/408/408867314.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 king bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "5656807",
+        "result_room_upz_list": [
+            {
+                "room_id": "565680701",
+                "name_room": "Standard Quadruple Room",
+                "endescription": "This quadruple room has a dining area, flat-screen TV and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/225/225294055.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221893949.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221893893.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221290314.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221290288.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221290321.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225294141.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "565680702",
+                "name_room": "Standard Twin Room",
+                "endescription": "This twin room features a view, private entrance and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/222/222041360.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/222/222041155.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/222/222040915.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221290332.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221290296.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225294055.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/225/225294141.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "565680703",
+                "name_room": "Comfort Triple Room with Shower",
+                "endescription": "This triple room has air conditioning, cable TV and dining area.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/221/221290330.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221290325.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221290323.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221290307.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221894209.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221894266.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221894378.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/330/330698438.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/330/330698437.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/330/330698434.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/330/330698433.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/330/330700566.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "3 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "5589462",
+        "result_room_upz_list": [
+            {
+                "room_id": "558946201",
+                "name_room": "Two-Bedroom Apartment",
+                "endescription": "This apartment has air conditioning, bathrobe and seating area.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/218/218754509.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754520.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754522.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754526.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754527.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754529.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754531.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754532.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754534.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754535.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754536.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754539.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754542.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754545.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754547.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754548.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754549.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/218/218754551.jpg']",
+                "private_bathroom_highlight": "",
+                "bed_configurations": "1 king bed Bedroom 2 : 1 twin bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "3286366",
+        "result_room_upz_list": [
+            {
+                "room_id": "328636602",
+                "name_room": "Double or Twin Room with Shared Bathroom",
+                "endescription": "This twin/double room features a private entrance, soundproofing and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/136/136494406.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136494398.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136494395.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136494381.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136595834.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "328636604",
+                "name_room": "Single Bed in Mixed Dormitory Room",
+                "endescription": "This bed in dormitory features a patio, soundproofing and air conditioning.\\n\\nThe bathroom is shared.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/136/136650511.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136494523.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136494516.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136595834.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "328636616",
+                "name_room": "Economy Quadruple Room with Shared Bathroom",
+                "endescription": "This quadruple room features a dining area, soundproofing and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/136/136650890.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136164470.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136164462.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136164464.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136595834.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "328636617",
+                "name_room": "Single Bed in Mixed Dormitory Room",
+                "endescription": "This bed in dormitory has a soundproofing, seating area and garden view.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/136/136494528.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136164461.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136494498.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136494487.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136164451.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136494479.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/136/136595834.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "328636618",
+                "name_room": "Single Room with Private Bathroom",
+                "endescription": "This single room features a washing machine, tumble dryer and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/221/221027291.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221027258.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221027214.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221027171.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221027030.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221026998.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/221/221027463.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nBidet\nToilet\nBathtub or shower\nSlippers\nHairdryer\nGuest bathroom\nToilet paper\n",
+                "bed_configurations": "1 twin bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "2535985",
+        "result_room_upz_list": [
+            {
+                "room_id": "253598501",
+                "name_room": "Standard King Room",
+                "endescription": "This double room has a dining area, soundproofing and flat-screen TV.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/106/106748954.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/106/106748781.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/106/106748799.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/106/106748825.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/106/106748853.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/106/106748989.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/170/170510465.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/170/170510471.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nToilet paper\n",
+                "bed_configurations": "1 queen bed"
+            },
+            {
+                "room_id": "253598503",
+                "name_room": "Twin Room",
+                "endescription": "This twin room has air conditioning, cable TV and soundproofing.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/170/170510474.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/170/170510475.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/170/170510476.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "253598504",
+                "name_room": "Deluxe Double Room with Extra Bed",
+                "endescription": "This double room features air conditioning, soundproofing and flat-screen TV.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/107/107461804.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/107/107461761.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/107/107461831.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/107/107461880.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/107/107462040.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nToilet paper\n",
+                "bed_configurations": "2 twin beds and 1 king bed"
+            },
+            {
+                "room_id": "253598505",
+                "name_room": "Budget Single Room",
+                "endescription": "This single room has a soundproofing, satellite TV and air conditioning.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/106/106748799.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/106/106748989.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/106/106748825.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/106/106748853.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/106/106748781.jpg']",
+                "private_bathroom_highlight": "Free toiletries\nToilet\nBathtub or shower\nToilet paper\n",
+                "bed_configurations": "1 twin bed"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "385703",
+        "result_room_upz_list": [
+            {
+                "room_id": "38570301",
+                "name_room": "Superior Double or Twin Room",
+                "endescription": "Homelike room with a cable TV, mini-bar, and private bathroom providing bathrobes and slippers.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/811/8118386.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181800853.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181807497.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181809630.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181810416.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181810582.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181810836.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181811082.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nShower\nBathrobe\nBidet\nToilet\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds or 1 full bed"
+            },
+            {
+                "room_id": "38570302",
+                "name_room": "Superior Quadruple Room",
+                "endescription": "Homelike room with a cable TV, mini-bar, and private bathroom providing bathrobes and slippers.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/181/181800853.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181807497.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181809630.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181810416.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181810582.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181810836.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181811261.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nShower\nBathrobe\nBidet\nToilet\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "4 twin beds"
+            },
+            {
+                "room_id": "38570303",
+                "name_room": "Two-Bedroom Suite",
+                "endescription": "Homelike room with a cable TV, mini-bar, and private bathroom providing bathrobes and slippers.\\n\\nConsists of 2 separate bedrooms and a living room.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/181/181802988.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181807497.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181809630.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181810416.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181810582.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181810836.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/181/181811261.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nShower\nBathrobe\nBidet\nToilet\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 full beds"
+            },
+            {
+                "room_id": "38570304",
+                "name_room": "Standard Single Room",
+                "endescription": "Homelike room with a cable TV, mini-bar, and private bathroom.",
+                "allow_children": "0",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/113/11354065.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/113/11354108.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/113/11354137.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/113/11354184.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/113/11354214.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/113/11354276.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nShower\nBathrobe\nBidet\nToilet\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "1 twin bed"
+            },
+            {
+                "room_id": "38570305",
+                "name_room": "Standard Twin Room",
+                "endescription": "Homelike room with a cable TV, mini-bar, and private bathroom.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/113/11354422.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/113/11354485.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/113/11354214.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/113/11354276.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/156/15689569.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nShower\nBathrobe\nBidet\nToilet\nSlippers\nHairdryer\nToilet paper\n",
+                "bed_configurations": "2 twin beds"
+            }
+        ]
+    },
+    {
+        "id": "",
+        "hotelid": "342501",
+        "result_room_upz_list": [
+            {
+                "room_id": "34250101",
+                "name_room": "Standard Double or Twin Room",
+                "endescription": "Air-conditioned room with flat-screen TV, mini-bar, and a private bathroom.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/135/13508602.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869738.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869741.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869744.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869745.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869746.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869747.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nToilet\nHairdryer\n",
+                "bed_configurations": "1 queen bed or 2 twin beds"
+            },
+            {
+                "room_id": "34250102",
+                "name_room": "Deluxe Twin Room",
+                "endescription": "Spacious, air-conditioned room with flat-screen TV, mini-bar, and a private bathroom.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/135/13508540.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869800.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869802.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869804.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869805.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869808.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869809.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nToilet\nHairdryer\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "34250103",
+                "name_room": "Premium Twin Room",
+                "endescription": "Air-conditioned room with flat-screen TV, mini-bar, and a private bathroom.\\n\\nThis room also offers extra space.",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/138/13869693.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869691.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869692.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869694.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869696.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nToilet\nHairdryer\n",
+                "bed_configurations": "2 twin beds"
+            },
+            {
+                "room_id": "34250104",
+                "name_room": "Suite",
+                "endescription": "Air-conditioned suite with flat-screen TV, mini-bar, and a private bathroom.\\n\\nThis spacious suite also offers a separate living room.\\n\\nPlease note that the rate is based on 2 guests. Maximum occupancy is 3  (see Hotel Policies) .",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/138/13869770.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/135/13508604.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869769.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869768.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869771.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869772.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nBathrobe\nToilet\nSlippers\nHairdryer\n",
+                "bed_configurations": "2 twin beds and 1 sofa bed"
+            },
+            {
+                "room_id": "34250105",
+                "name_room": "Grand Suite",
+                "endescription": "Air-conditioned suite with flat-screen TV, mini-bar, and a private bathroom.\\n\\nThis suite also offers a separate living room, a second toilet, and a spa bath.\\n\\nPlease note that the rate is based on 2 guests. Maximum occupancy is 3  (see Hotel Policies) .",
+                "allow_children": "1",
+                "apartament_photo_list": "['https://cf.bstatic.com/images/hotel/max1024x768/135/13508545.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/135/13508548.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869667.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869664.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869658.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869660.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869662.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869666.jpg', 'https://cf.bstatic.com/images/hotel/max1024x768/138/13869668.jpg']",
+                "private_bathroom_highlight": "Bathtub\nFree toiletries\nBathrobe\nToilet\nSlippers\nSpa tub\nHairdryer\n",
+                "bed_configurations": "1 sofa bed and 1 queen bed"
+            }
+        ]
+    }
+]

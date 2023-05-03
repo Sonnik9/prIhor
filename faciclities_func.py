@@ -3,25 +3,15 @@ from bs4 import BeautifulSoup
 import re
 
 
-def page_scraper_otziv(data_upz_hotels_item,  resHtml):
+def page_scraper_facilities(resHtml, hotelid):
     result_facilities_upz = []
     result_facilities_upz_list = []
-   
     try:
-        data_upz_hotels_item_dict = eval(data_upz_hotels_item)
-    except:
-        data_upz_hotels_item_dict = data_upz_hotels_item
-
-
-    try:
-       hotelid = data_upz_hotels_item_dict["hotel_id"] 
-    except:
-        hotelid = 'not found'
-
-    try:
-        soup1 = BeautifulSoup(resHtml, "lxml")
+        soup1 = BeautifulSoup(resHtml, "lxml")     
     except Exception as ex:
-        print(f"str226___{ex}") 
+        # print(f"str102___{ex}") 
+        # pass 
+        return None
 
     try:
         # print('hello finder')        
@@ -42,14 +32,15 @@ def page_scraper_otziv(data_upz_hotels_item,  resHtml):
                 # print(title)               
             except Exception as ex:
                 facilitytype_id = 'not found'
-                print(f"str129___{ex}")
+                # print(f"str129___{ex}")
+                pass
             try:
                 name = item.find('div', class_= parent_class).get_text().strip()
-                print(name) 
+                # print(name) 
                 # return name             
             except Exception as ex:
                 name = 'not found' 
-                print(f"str129___{ex}")
+                # print(f"str129___{ex}")
             try:
                 facilitytype_name_list = []
                 facilitytype_name =''
@@ -64,14 +55,14 @@ def page_scraper_otziv(data_upz_hotels_item,  resHtml):
                 # print(cons)
             except Exception as ex:
                 facilitytype_name = 'not found' 
-                print(f"str129___{ex}") 
+                # print(f"str129___{ex}") 
             try:
                 uniq = '?'
                 # print(average_score)
             #    break
             except Exception as ex:
                 uniq = 'not found'
-                print(f"str129___{ex}") 
+                # print(f"str129___{ex}") 
 
             result_facilities_upz_list.append({
                 "facilitytype_id": facilitytype_id, 
@@ -82,7 +73,9 @@ def page_scraper_otziv(data_upz_hotels_item,  resHtml):
             })
             # print(len(result_review_upz_list))
     except Exception as ex:
-        print(f"str226___{ex}") 
+        # print(f"str226___{ex}") 
+        return None
+        # pass
     try:
         result_facilities_upz.append({
             "id":"",
@@ -90,7 +83,9 @@ def page_scraper_otziv(data_upz_hotels_item,  resHtml):
             "result_review_upz_list": result_facilities_upz_list,            
         })
     except Exception as ex:
-        print(f"str226___{ex}") 
+        # print(f"str226___{ex}") 
+        return None
+        # pass
     try:
         return result_facilities_upz[0]
     except:

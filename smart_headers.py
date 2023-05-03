@@ -18,20 +18,20 @@ desktop_accept = [
     'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',                
     ]
 
-aceptLengv = [
-    'en-US,en;q=0.8',
-    'ru-RU,ru;q=0.9',            
-    'bg-BG,bg;q=0.9,en-US;q=0.8,en;q=0.7',
-    'fr-CH,fr;q=0.9,en-US;q=0.8,en;q=0.7',
-    'sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7',
-    'bg-BG,bg;q=0.9,en-US;q=0.8,en;q=0.7',
-    'nl-BE,nl;q=0.9,en-US;q=0.8,en;q=0.7',
-    'ka-GE,ka;q=0.9,en-US;q=0.8,en;q=0.7',
-    'ka-GE,ka;q=0.9,en-US;q=0.8,en;q=0.7',
-    'es-AR,es;q=0.9,en-US;q=0.8,en;q=0.7',
-    'cs-CZ,cs;q=0.9,en-US;q=0.8,en;q=0.7',   
-    'se-FI,se;q=0.9,en-US;q=0.8,en;q=0.7'
-    ]
+# aceptLengv = [
+#     'en-US,en;q=0.8',
+#     'ru-RU,ru;q=0.9',            
+#     'bg-BG,bg;q=0.9,en-US;q=0.8,en;q=0.7',
+#     'fr-CH,fr;q=0.9,en-US;q=0.8,en;q=0.7',
+#     'sv-SE,sv;q=0.9,en-US;q=0.8,en;q=0.7',
+#     'bg-BG,bg;q=0.9,en-US;q=0.8,en;q=0.7',
+#     'nl-BE,nl;q=0.9,en-US;q=0.8,en;q=0.7',
+#     'ka-GE,ka;q=0.9,en-US;q=0.8,en;q=0.7',
+#     'ka-GE,ka;q=0.9,en-US;q=0.8,en;q=0.7',
+#     'es-AR,es;q=0.9,en-US;q=0.8,en;q=0.7',
+#     'cs-CZ,cs;q=0.9,en-US;q=0.8,en;q=0.7',   
+#     'se-FI,se;q=0.9,en-US;q=0.8,en;q=0.7'
+#     ]
 
 
 
@@ -101,7 +101,8 @@ def random_headers():
             'authority': 'www.booking.com',
             'accept': choice(desktop_accept), 
             'User-Agent': uaG,  
-            'accept-language': 'ru-RU,ru;q=0.9',         
+            'accept-language': 'en-US,en;q=0.8',
+            # 'accept-language': 'ru-RU,ru;q=0.9',         
             # 'accept-language': f"'en-US,en;q=0.8', 'ru-RU,ru;q=0.9', 'uk-Uk,uk;q=0.5'",       
             'origin': 'https://www.booking.com/',
             'device-memory': f'{choice(device_memoryHelper)}',

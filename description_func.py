@@ -1,19 +1,19 @@
 # import main 
 from bs4 import BeautifulSoup
-import re
+# import re
 
 
-def page_scraper_description(data_upz_hotels, resHtml):
-    print('hello description!')
+def page_scraper_description(resHtml, hotelid):
+    # print('hello description!')
     result_description_upz = []
     try:
-       hotelid = data_upz_hotels["hotel_id"] 
-    except:
-        pass
-    try:
-        soup1 = BeautifulSoup(resHtml, "lxml")
+        soup1 = BeautifulSoup(resHtml, "lxml")  
+        # print(soup1)
     except Exception as ex:
-        print(f"str226___{ex}") 
+        # print(f"description____str19___{ex}") 
+        # pass
+        return None 
+
     try:
         description_block = soup1.find("div", attrs={"class": "hp_desc_main_content"})
         description = description_block.get_text(strip=True, separator="\n")
@@ -25,10 +25,12 @@ def page_scraper_description(data_upz_hotels, resHtml):
         })
 
     except Exception as ex:
-        print(f"str119___{ex}") 
-        # return None 
+        # print(f"description_func___str32___{ex}") 
+        # pass
+        return None 
 
     try:
         return result_description_upz[0] 
-    except:
-        return None
+    except Exception as ex:
+        # print(f"description_func___str39___{ex}") 
+        return None 

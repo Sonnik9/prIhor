@@ -12,17 +12,22 @@ import math
 import re
 from datetime import datetime
 # import aiohttp
-# import asyncio
+import asyncio
 
-import smart_headers, json_reader_test, photos_func, description_func, review_func, faciclities_func, rooms_func
+import smart_headers, json_reader_test, photos_func, description_func, review_func, faciclities_func, rooms_func, rooms_block_func, writerr
 # db_handler
 # proxy_generator
 
 
 # ////////// upz_hotels block/////////////////////////////////////
 
-def requests_generator(fixed_url):
+def requests_generator(prLi, fixed_url):
+    r = ''
     for sesCountt in range(3):
+        proxy_item = {       
+            "https": f"http://{choice(prLi)}"          
+        } 
+        # print(proxy_item)
         r = ''
         k = 2 / random.randrange(1, 5)
         m = 1 / random.randrange(1, 11)
@@ -30,46 +35,129 @@ def requests_generator(fixed_url):
         n = round(g + k + m, 2) 
         time.sleep(n)  
         try:  
-            print('hello req')                    
-            r = requests.get(fixed_url, headers=smart_headers.random_headers(), timeout=(9.15, 30.15))
+            # print('hello req')                    
+            r = requests.get(fixed_url, headers=smart_headers.random_headers(), proxies=proxy_item, timeout=(3.15, 21.15))
             r.raise_for_status()
-            print(r.status_code) 
+            print(r.status_code)
+            if r.status_code == 404: 
+                return None
             if r.status_code == 200:
-                return r.text
+                return r.text 
+            else:
+                continue
 
         except requests.exceptions.HTTPError as ex:
             print(f"str44___HTTP error occurred: {ex}")           
             if sesCountt == 2:
-                return None 
+                return None                
             else:
-                continue
-# ////////////////// others///////////////////////////////////
-   
+                continue 
+    try:
+        return r.text 
+    except:
+        return None
+# ////////////////// async///////////////////////////////////
 
+async def scraper_grendmather(resHtml, hotelid, photoInd, descriptionInd, facilityInd, roomInd):
+    flagTest = True
+    result_photos_upz, result_description_upz, result_facilities_upz, result_rooms_upz, upz_hotels_rooms_blocks = [], [], [], [], []
 
-# ////////// others end/////////////////////////////////////
+    async def mather_controller_two():
+        nonlocal flagTest, result_photos_upz, result_description_upz, result_facilities_upz, result_rooms_upz, upz_hotels_rooms_blocks 
+        tasks = [
+            asyncio.create_task(async_page_scraper_photos()),
+            asyncio.create_task(async_page_scraper_description()), 
+            asyncio.create_task(async_page_scraper_facilities()),
+            asyncio.create_task(async_page_scraper_room()),
+            asyncio.create_task(async_page_scraper_room_block())
+        ]
+        
+        await asyncio.gather(*tasks)
 
-def mather_controller(data_upz_hotels_item):
+    async def async_page_scraper_photos():
+        nonlocal flagTest, result_photos_upz
+        # print(resHtml)
+        if (photoInd != "1" and photoInd != 1) or flagTest == True:
+            try:
+                rFoto = photos_func.page_scraper_photos(resHtml, hotelid)
+                result_photos_upz.append(rFoto) 
+            except:
+                result_photos_upz = None
+    async def async_page_scraper_description():
+        nonlocal flagTest, result_description_upz
+        if (descriptionInd != "1" and descriptionInd != 1) or flagTest == True:
+            try:
+                rDescription = description_func.page_scraper_description(resHtml, hotelid)
+                result_description_upz.append(rDescription)
+            except:
+                result_description_upz = None 
+
+    async def async_page_scraper_facilities():
+        nonlocal flagTest, result_facilities_upz
+        if (facilityInd != "1" and facilityInd != 1) or flagTest == True:
+            try:
+               result_facilities_upz.append(faciclities_func.page_scraper_facilities(resHtml, hotelid))
+            except:
+               result_facilities_upz = None
+    async def async_page_scraper_room():
+        nonlocal flagTest, result_rooms_upz
+        if (roomInd != "1" and roomInd != 1) or flagTest == True:
+            try:
+               result_rooms_upz.append(rooms_func.page_scraper_room(resHtml, hotelid))
+            except:
+               result_rooms_upz = None 
+    async def async_page_scraper_room_block():
+        nonlocal  flagTest, upz_hotels_rooms_blocks
+        if (roomInd != "1" and roomInd != 1) or flagTest == True:
+            try:
+               upz_hotels_rooms_blocks.append(rooms_block_func.page_scraper_room_block(resHtml, hotelid))
+            except:
+               upz_hotels_rooms_blocks = None  
+
+    await mather_controller_two()
+
+    return result_photos_upz, result_description_upz, result_facilities_upz, result_rooms_upz, upz_hotels_rooms_blocks
+
+# ////////// asynk end/////////////////////////////////////
+
+def grendMather_controller(data):
     flagCount = 0
     flagTest = True
+    resHtml = ''
 
     result_photos_upz = []
     result_description_upz = []
     result_review_upz = []
     result_facilities_upz = []
     result_rooms_upz = []
-    # upz_hotels_rooms_blocks = []
-    # upz_hotels_rooms_highlights = []
+    upz_hotels_rooms_blocks = []
+    upz_hotels_rooms_highlights = []
 
     black_list = []
+    white_list = []
+    try:
+        data_upz_hotels_item = data.split('SamsonovNik')[1]
+    except:
+        pass
+
+    try:
+        prLi_str = data.split('SamsonovNik')[0]
+        try:
+            prLi = eval(prLi_str)
+        except:
+            pass
+    except:
+        pass
+
     try:
         data_upz_hotels_item_dict = eval(data_upz_hotels_item) 
     except:
         data_upz_hotels_item_dict = data_upz_hotels_item 
-
-    hotelid = data_upz_hotels_item_dict["hotel_id"] 
+    try:
+       hotelid = data_upz_hotels_item_dict["hotel_id"] 
+    except:
+       hotelid = 'not found'
     photoInd = data_upz_hotels_item_dict["fotos"]
-
     descriptionInd = data_upz_hotels_item_dict["description"]
     otzivInd = data_upz_hotels_item_dict["otziv"]
     facilityInd = data_upz_hotels_item_dict["facility"] 
@@ -87,7 +175,7 @@ def mather_controller(data_upz_hotels_item):
     if roomInd == "1" or roomInd == 1:
         flagCount += 1
 
-    if flagCount == 5:
+    if flagCount == 5 and flagTest != True:
         black_list.append(hotelid)        
         return [[None], black_list] 
     
@@ -95,216 +183,85 @@ def mather_controller(data_upz_hotels_item):
         try:
             link = ''
             link = data_upz_hotels_item_dict["url"] 
-            fixed_url = re.sub(r'\\/', '/', link)  
+            try:
+               fixed_url = re.sub(r'\\/', '/', link)  
+            except:
+               fixed_url = data_upz_hotels_item_dict["url"]
         except Exception as ex:
-            print(f"str199___{ex}")
+            # print(f"str199___{ex}")
             return [[None], black_list] 
-        
         try:
-            resHtml = requests_generator(fixed_url)          
+        #    resHtml, result_review_upz = response_grendmather(prLi, fixed_url, otzivInd, hotelid)  
+        # 
+           resHtml = requests_generator(prLi, fixed_url)               
+     
         except Exception as ex:
-            print(f"249____{ex}")
-            return [[None], black_list]           
+            # print(f"249____{ex}")
+            # return [[None], black_list]           
         # print( resHtml)
+            pass
 
-        if (photoInd != "1" and photoInd != 1) or flagTest == True:
-            print("225str")
-            rFoto = photos_func.page_scraper_photos(data_upz_hotels_item_dict, resHtml)
-            result_photos_upz.append(rFoto)
-
-        # if (descriptionInd != "1" and descriptionInd != 1) or flagTest == True:
-        # # if (descriptionInd != "1" and descriptionInd != 1):
-        #     # print("230str")
-        #     rDescription = description_func.page_scraper_description(data_upz_hotels_item_dict, resHtml)
-        #     result_description_upz.append(rDescription)
-        
-        # if (otzivInd != "1" and otzivInd != 1) or flagTest == True:
-        #     result_review_upz.append(review_func.page_scraper_otziv(data_upz_hotels_item_dict, fixed_url))
-
-        # if (facilityInd != "1" and facilityInd != 1) or flagTest == True:
-        #     result_facilities_upz.append(faciclities_func.page_scraper_otziv(data_upz_hotels_item_dict, resHtml))
-
-        # if (roomInd != "1" and roomInd != 1) or flagTest == True:
-        #     result_rooms_upz.append(rooms_func.page_scraper_roomFather(data_upz_hotels_item_dict, resHtml))
-
+        try:
+            # print('h')
+            # data_upz_hotels_args = [resHtml, hotelid, photoInd]
+            result_photos_upz, result_description_upz, result_facilities_upz, result_rooms_upz, upz_hotels_rooms_blocks= scraper_grendmather(resHtml, hotelid, photoInd, descriptionInd, facilityInd, roomInd)
+        except Exception as ex:
+            # print(f"249____{ex}")
+            # return [[None], black_list] 
+            pass          
+        # print( resHtml)
         try:
             black_list.append(hotelid)
-            return [[result_photos_upz, result_description_upz, result_review_upz, result_facilities_upz, result_rooms_upz], black_list] 
+            return [[result_photos_upz, result_description_upz, result_review_upz, result_facilities_upz, result_rooms_upz, upz_hotels_rooms_blocks, None], black_list] 
         
         except Exception as ex:
-            print(f"220____{ex}")
+            # print(f"220____{ex}")
             return [[None], black_list] 
 
-def father_multiprocessor(data_upz_hotels):      
-    from mpire import WorkerPool          
-    finResArr = [] 
-    total = [] 
-    # data_upz_hotels = list(filter(None, data_upz_hotels))  
+def father_multiprocessor(data_upz_hotels):
+    from mpire import WorkerPool   
     # n = multiprocessing.cpu_count() * 10  
+    prLi = proxy_reader()
     n = 21
-    vpnFraction = random.randrange(75,125)
-    if len(data_upz_hotels) < vpnFraction:
-        vpnFraction = len(data_upz_hotels)
-    data_upz_hotels_args = list(f"{data_upz_hotels[i]}" for i in range(len(data_upz_hotels)))
+    data_upz_hotels_args = list(f"{prLi}SamsonovNik{data_upz_hotels[i]}" for i in range(len(data_upz_hotels)))
+    with WorkerPool(n_jobs = n) as p2:
+        # print('hello multi')                      
+        finRes = p2.map(grendMather_controller, data_upz_hotels_args)
+    writerr.writerr(finRes)     
+    finRes = []  
 
-    for i in range(0, len(data_upz_hotels), vpnFraction):        
-        n1 = i 
-        n2 = i+vpnFraction
-        if n2 > len(data_upz_hotels):
-           n2 = len(data_upz_hotels)
-        # if n2 != len(data_upz_hotels) and i != 0:  
-        #     yellowInput = input('Пожалуйста смените VPN', )
-        #     if yellowInput:
-        #         pass
-        with WorkerPool(n_jobs = n) as p2:
-            print('hello multi')                      
-            finRes = p2.map(mather_controller, data_upz_hotels_args[n1:n2])
-            finResArr.append(finRes)           
-            # time.sleep(random.randrange(63,79))            
-    for item in finResArr:
-        total +=item
-
-    writerr(total)     
-    finRes = []
-    finResArr = [] 
-    total = []  
-
-def writerr(total):
-    print('hello total')
-    # print(total)
-    resPhoto = []
-    resDescription = []
-    resRevievs = []
-    resFacilities = []
-    resBlackList = []
-
-    try:
-
-        for t in total:
-            resPhoto.append(t[0][0])
-            resDescription.append(t[0][1])
-            resRevievs.append(t[0][2])
-            resFacilities.append(t[0][3])
-            resBlackList.append(t[1]) 
-        try:
-            resPhoto = list(filter(None, resPhoto))
-            resPhoto = list(filter([], resPhoto)) 
-        except:
-            pass
-        try:
-            resDescription = list(filter(None, resDescription))
-            resDescription = list(filter([], resDescription)) 
-        except:
-            pass
-        try:
-            resRevievs = list(filter(None, resRevievs))
-            resRevievs = list(filter([], resRevievs)) 
-        except:
-            pass
-
-        try:
-            resFacilities = list(filter(None, resFacilities))
-            resFacilities = list(filter([], resFacilities)) 
-        except:
-            pass
-        try:
-            resBlackList = list(filter(None, resBlackList))
-            resBlackList = list(filter([], resBlackList)) 
-        except:
-            pass 
-    except Exception as ex:
-        print(f"str342__{ex}")
-
-    try:
-        if resPhoto != None and resPhoto != []:
-            try:
-                with open(f'result_photos_upz_4.json', "w", encoding="utf-8") as file: 
-                    json.dump(resPhoto, file, indent=4, ensure_ascii=False)
-            except Exception as ex:
-                print(f"str210__{ex}")
-        if resDescription != None and resDescription != []:
-            try:
-                with open(f'result_description_upz_4.json', "w", encoding="utf-8") as file: 
-                    json.dump(resDescription, file, indent=4, ensure_ascii=False)
-            except Exception as ex:
-                print(f"str216__{ex}") 
-        if resRevievs != None and resRevievs != []:
-            try:
-                with open(f'result_review_upz_4.json', "w", encoding="utf-8") as file: 
-                    json.dump(resRevievs, file, indent=4, ensure_ascii=False)
-            except Exception as ex:
-                print(f"str221__{ex}") 
-
-        if resFacilities != None and resFacilities != []:
-            try:
-                with open(f'result_facilities_upz_4.json', "w", encoding="utf-8") as file: 
-                    json.dump(resFacilities, file, indent=4, ensure_ascii=False)
-            except Exception as ex:
-                print(f"str221__{ex}") 
-
-        if resBlackList != None and resBlackList != []:
-            try:
-                with open(f'black_list_1.json', "w", encoding="utf-8") as file: 
-                    json.dump(resBlackList, file, indent=4, ensure_ascii=False)
-            except Exception as ex:
-                print(f"str226__{ex}") 
+        
+def proxy_reader():
+    with open("proxy_booking.txt", encoding="utf-8") as f1:    
+        prLi = ''.join(f1.readlines()).split('\n')
+        prLi= list(i.strip() for i in prLi)
+        prLi = list(filter(lambda item: item != '', prLi))
+    return prLi
 
 
-
-        # if total[0][4][0] != None and total[0][4] != []:
-        #     try:
-        #         with open(f'result_rooms_upz_1.json', "w", encoding="utf-8") as file: 
-        #             json.dump(total[0][4][0], file, indent=4, ensure_ascii=False)
-        #     except Exception as ex:
-        #         print(f"str237__{ex}") 
-
-        # if total[0][5][1] != None and total[0][5][1] != []:
-        #     try:
-        #         with open(f'upz_hotels_rooms_blocks_1.json', "w", encoding="utf-8") as file: 
-        #             json.dump(total[0][5][1], file, indent=4, ensure_ascii=False)
-        #     except Exception as ex:
-        #         print(f"str242__{ex}") 
-
-        # if total[0][6][2] != None and total[0][6][2] != []:
-        #     try:
-        #         with open(f'upz_hotels_rooms_highlights_1.json', "w", encoding="utf-8") as file: 
-        #             json.dump(total[0][6][2], file, indent=4, ensure_ascii=False)
-        #     except Exception as ex:
-        #         print(f"str248__{ex}") 
-    except Exception as ex:
-        print(f"str320__{ex}")
-  
 def main():
     start_time = time.time() 
+    urls_list = []
     data_upz_hotels_all = json_reader_test.data_upz_hotels_func()[0] 
-    data_upz_hotels = json_reader_test.data_upz_hotels_func()[1][4:5]
-    # print(data_upz_hotels)
+    data_upz_hotels = json_reader_test.data_upz_hotels_func()[1]
+    # for url in data_upz_hotels:
+    #     urls_list.append(url["url"]) 
+    # try:
+    #     with open(f'urls_list_1-50.json', "w", encoding="utf-8") as file: 
+    #         json.dump(urls_list, file, indent=4, ensure_ascii=False)
+    # except Exception as ex:
+    #     print(f"str226__{ex}") 
+
+
     father_multiprocessor(data_upz_hotels)
     finish_time = time.time() - start_time 
-    print(f"Общее время работы парсера:  {math.ceil(finish_time)} сек")
-    
+    print(f"Общее время работы парсера:  {math.ceil(finish_time)} сек")   
 
 if __name__ == "__main__":
     main() 
 
 
 # python main.py 
-
-
-
-# return [[result_photos_upz, result_description_upz, result_review_upz, result_facilities_upz, result_rooms_upz, upz_hotels_rooms_blocks, upz_hotels_rooms_highlights], data_upz_hotels, black_list] 
-
-
-
-# try:
-#     title = ''
-#     title = soup1.find('div', attrs={'id': 'hp_hotel_name'}).find('h2').get_text().strip()
-#     print(title)
-
-# except Exception as ex:
-#     print(f"str175___{ex}")  
-
-
 
 # t = [
 #     [[[], [], [], [], [None]], ['2061186']],
@@ -313,8 +270,3 @@ if __name__ == "__main__":
 #     [[[], [], [], [], [None]], ['1037647']],
 #     [[[], [], [], [], [None]], ['1654758']]
 # ]
-
-# https://www.booking.com/hotel/uz/hilton-tashkent-city.ru.html?dist=0&sb_price_type=total&type=total&group_adults=2&sid=52c12d695260d02d8a98fb123e5b9e1e&label=gen173nr-1BCAso7gFCFGhpbHRvbi10YXNoa2VudC1jaXR5SDNYBGjkAYgBAZgBIbgBGcgBDNgBAegBAYgCAagCA7gC6O2KogbAAgHSAiQ0MTA3MTA1Mi03ZjhkLTQ1NTktODE3YS1lZDQ4NzQ3Y2I4ZmPYAgXgAgE&keep_landing=1#tab-reviews
-
-
-
