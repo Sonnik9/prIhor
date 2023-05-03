@@ -144,8 +144,8 @@ data1 = [{'links_list_max1280x900': ['https://cf.bstatic.com/xdata/images/hotel/
 
 
 
-#             #    with open('review_test_doubleReq_2.html', 'w', encoding='utf-8') as f:
-#             #         f.write(r.text)     
+            #    with open('review_test_doubleReq_2.html', 'w', encoding='utf-8') as f:
+            #         f.write(r.text)     
 # # import main
 # from bs4 import BeautifulSoup
 # import re

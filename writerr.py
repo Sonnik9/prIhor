@@ -1,10 +1,10 @@
 
 
-def writerr(total):
+def writerr(total, n1, n2):
     # print('hello total')
     # from itertools import groupby
     import json
-    from collections import defaultdict
+    # from collections import defaultdict
     print(len(total))
     # print(total)
     resPhoto = []
@@ -14,8 +14,8 @@ def writerr(total):
     resRoomHighlights = []
     resRoomsBlock = []
     resWhiteList = []
-    resBlackList = []
-    new_resBlackList = []
+    # resBlackList = []
+    # new_resBlackList = []
 
     try:
         for t in total:
@@ -125,14 +125,14 @@ def writerr(total):
         if resPhoto != None and resPhoto != []:
             print(f"len_photos___{len(resPhoto)}")
             try:
-                with open(f'result_photos_upz_7.json', "w", encoding="utf-8") as file: 
+                with open(f'result_photos__interval_{n1}__{n2}__Items_{len(resPhoto)}.json', "w", encoding="utf-8") as file: 
                     json.dump(resPhoto, file, indent=4, ensure_ascii=False)
             except Exception as ex:
                 print(f"str210__{ex}")
         if resDescription != None and resDescription != []:
             print(f"len_resDescription ___{len(resDescription)}")
             try:
-                with open(f'result_description_upz_7.json', "w", encoding="utf-8") as file: 
+                with open(f'result_description__interval_{n1}__{n2}__Items_{len(resDescription)}.json', "w", encoding="utf-8") as file: 
                     json.dump(resDescription, file, indent=4, ensure_ascii=False)
             except Exception as ex:
                 print(f"writerr__str86__{ex}") 
@@ -140,14 +140,14 @@ def writerr(total):
         if resFacilities != None and resFacilities != []:
             print(f"len_resFacilities___{len(resFacilities)}")
             try:
-                with open(f'result_facilities_upz_7.json', "w", encoding="utf-8") as file: 
+                with open(f'result_facilities___interval_{n1}__{n2}__Items_{len(resFacilities)}.json', "w", encoding="utf-8") as file: 
                     json.dump(resFacilities, file, indent=4, ensure_ascii=False)
             except Exception as ex:
                 print(f"str221__{ex}") 
         if resRooms != None and resRooms != []:
             print(f"len_resRooms___{len(resRooms)}")
             try:
-                with open(f'result_room_upz_7.json', "w", encoding="utf-8") as file: 
+                with open(f'result_room__interval_{n1}__{n2}__Items_{len(resRooms)}.json', "w", encoding="utf-8") as file: 
                     json.dump(resRooms, file, indent=4, ensure_ascii=False)
             except Exception as ex:
                 print(f"str221__{ex}")
@@ -155,23 +155,23 @@ def writerr(total):
         if resRoomsBlock != None and resRoomsBlock != []:
             print(f"len_resRoomsBlock___{len(resRoomsBlock)}")
             try:
-                with open(f'result_room_block_upz_7.json', "w", encoding="utf-8") as file: 
+                with open(f'result_room_block__interval_{n1}__{n2}__Items_{len(resRoomsBlock)}.json', "w", encoding="utf-8") as file: 
                     json.dump(resRoomsBlock, file, indent=4, ensure_ascii=False)
             except Exception as ex:
                 print(f"str221__{ex}") 
 
-        if resRoomHighlights != None and resRoomHighlights != []:
-            print(f"len_resRoomHighlights___{len(resRoomHighlights)}")
-            try:
-                with open(f'result_room_Highlights_upz_7.json', "w", encoding="utf-8") as file: 
-                    json.dump(resRoomHighlights, file, indent=4, ensure_ascii=False)
-            except Exception as ex:
-                print(f"str221__{ex}") 
+        # if resRoomHighlights != None and resRoomHighlights != []:
+        #     print(f"len_resRoomHighlights___{len(resRoomHighlights)}")
+        #     try:
+        #         with open(f'result_room_Highlights_upz_7.json', "w", encoding="utf-8") as file: 
+        #             json.dump(resRoomHighlights, file, indent=4, ensure_ascii=False)
+        #     except Exception as ex:
+        #         print(f"str221__{ex}") 
 
         if resWhiteList != None and resWhiteList != []:
             print(f"len_resBlackList___{len(resWhiteList)}")
             try:
-                with open(f'white_list_1.json', "w", encoding="utf-8") as file: 
+                with open(f'white_list__interval_{n1}__{n2}__Items_{len(resWhiteList)}.json', "w", encoding="utf-8") as file: 
                     json.dump(resWhiteList, file, indent=4, ensure_ascii=False)
             except Exception as ex:
                 print(f"str226__{ex}") 

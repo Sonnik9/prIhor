@@ -1,9 +1,11 @@
 # import main
 from bs4 import BeautifulSoup
 import re
+import facilities_data
 
 
 def page_scraper_facilities(resHtml, hotelid):
+    print('hello faci')
     result_facilities_upz = []
     result_facilities_upz_list = []
     try:
@@ -26,29 +28,78 @@ def page_scraper_facilities(resHtml, hotelid):
         
         # return len(facilities_list)
         for item in facilities_list:
+
             try:
-                facilitytype_id = parent_class 
-                # ????????
-                # print(title)               
-            except Exception as ex:
-                facilitytype_id = 'not found'
-                # print(f"str129___{ex}")
-                pass
-            try:
+                name = ''                
                 name = item.find('div', class_= parent_class).get_text().strip()
-                # print(name) 
-                # return name             
             except Exception as ex:
                 name = 'not found' 
                 # print(f"str129___{ex}")
             try:
+                facilitytype_id = ''
+                for key, value in facilities_data.hotelfacility_gen_en.items():
+                    if re.search(f'{value}', name):
+                        facilitytype_id = key
+                        break
+                if facilitytype_id == '':
+                    for key, value in facilities_data.hotelfacility_gen_en.items():
+                        if re.search(f'{name}', value):
+                            facilitytype_id = key
+                            break
+
+                    # if value == name:
+                    #     facilitytype_id = key
+                    #     print(facilitytype_id)
+                    #     break 
+            except Exception as ex:
+                facilitytype_id = 'not found' 
+                # print(name) 
+                # return name             
+
+            try:
                 facilitytype_name_list = []
-                facilitytype_name =''
-                hotelfacilitytype_id = '?'
+                facilitytype_name = ''               
                 facilitytype_name_block = item.find_all('li')
                 for li in facilitytype_name_block:
-                    facilitytype_name = li.get_text(strip=True, separator="\n")
-                    facilitytype_name_list.append({
+                    facilitytype_name = li.get_text(strip=True, separator="\n")               
+                    try:
+                        hotelfacilitytype_id = ''
+                        for key, value in facilities_data.hotelfacility_local_en.items():
+                            if re.search(f'{value}', facilitytype_name):
+                                hotelfacilitytype_id = key
+                                break
+                        
+                        if  hotelfacilitytype_id == '':
+                            for key, value in facilities_data.hotelfacility_local_en.items():
+                                if re.search(f'{facilitytype_name}', value):
+                                    hotelfacilitytype_id = key
+                                    break
+                        if  hotelfacilitytype_id == '':
+                            for key, value in facilities_data.roomfacility.items():
+                                if re.search(f'{value}', facilitytype_name):
+                                    hotelfacilitytype_id = key
+                                    break
+                        if  hotelfacilitytype_id == '':
+                            for key, value in facilities_data.roomfacility.items():
+                                if re.search(f'{facilitytype_name}', value):
+                                    hotelfacilitytype_id = key
+                                    break
+
+                            # for key, value in facilities_data.roomfacility.items():
+                            #     if value == facilitytype_name:
+                            #         hotelfacilitytype_id = key
+                            #         print(hotelfacilitytype_id)
+                            #         break
+                            # for key, value in facilities_data.hotelfacility_local_en.items():
+                            #     if value == facilitytype_name:
+                            #         hotelfacilitytype_id = key
+                            #         print(hotelfacilitytype_id)
+                            #         break
+                            # roomfacility
+                    except:
+                        hotelfacilitytype_id = 'not found'
+                    print(hotelfacilitytype_id)
+                    facilitytype_name_list.append({                        
                         'facilitytype_name': facilitytype_name,
                         'hotelfacilitytype_id': hotelfacilitytype_id,
                     })
@@ -62,11 +113,11 @@ def page_scraper_facilities(resHtml, hotelid):
             #    break
             except Exception as ex:
                 uniq = 'not found'
-                # print(f"str129___{ex}") 
+                # print(f"str129___{ex}")
 
-            result_facilities_upz_list.append({
-                "facilitytype_id": facilitytype_id, 
+            result_facilities_upz_list.append({                
                 "name": name, 
+                "facilitytype_id": facilitytype_id, 
                 'facilitytype_name_list': facilitytype_name_list,              
                 "uniq": uniq, 
                
